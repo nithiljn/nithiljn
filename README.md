@@ -10,7 +10,7 @@
 [![Email](https://img.shields.io/badge/Contact-jamnithil%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jamnithil@gmail.com)
 
 <p align="center">
-  <b>Building High-Throughput Java/Spring Boot Microservices, Event-Driven Architectures & Agentic AI Workflows.</b>
+  <b>Building High Throughput Java/Spring Boot Microservices, Event Driven Architectures & Agentic AI Workflows.</b>
 </p>
 
 </div>
@@ -24,9 +24,9 @@
 </p>
 
 - **Core Backend:** Java 21, Spring Boot 3.x, Spring Security, Hibernate/JPA, RESTful APIs, Microservices
-- **Databases & Caching:** PostgreSQL, Redis In-Memory Caching, AWS DynamoDB
+- **Databases & Caching:** PostgreSQL, Redis In Memory Caching, AWS DynamoDB
 - **Event Streaming & DevOps:** Apache Kafka, Docker Containerization, Git, Linux / macOS Shell
-- **AI & Systems:** LangGraph Multi-Agent Workflows, RAG Architecture, Groq LLaMA 3.3, PyTorch
+- **AI & Systems:** LangGraph Multi Agent Workflows, RAG Architecture, Groq LLaMA 3.3, PyTorch
 - **Algorithms & DSA:** Competitive Programmer | LeetCode Knight (**Rating 2,069 | Global Peak #114**)
 
 ---
@@ -45,10 +45,10 @@
 
 | System | Architecture & Focus | Impact / Benchmarks | Links |
 | :--- | :--- | :--- | :--- |
-| **KadalVazhi** | Distributed Multi-Agent Maritime Vessel Tracking | Sub-50ms GPS point caching, dynamic geofencing & offline SMS alerts | [Architecture Dossier](https://jamesnithil.vercel.app/#projects) |
-| **FarmVista** | SIH National Finalist • AI Precision Agritech System | Automated crop disease detection & real-time telemetry processing | [Repository](https://github.com/nithiljn/Farmvista) |
+| **KadalVazhi** | Distributed Multi-Agent Maritime Vessel Tracking | Sub 50ms GPS point caching, dynamic geofencing & offline SMS alerts | [Architecture Dossier](https://jamesnithil.vercel.app/#projects) |
+| **FarmVista** | SIH National Finalist • AI Precision Agritech System | Automated crop disease detection & real time telemetry processing | [Repository](https://github.com/nithiljn/Farmvista) |
 | **SymptoMedAI** | Multi-Agent Clinical Triage & Differential Diagnosis | 87.4% benchmark diagnostic accuracy with Groq LLaMA 3 & LangGraph | [Repository](https://github.com/nithiljn/SymptoMedAi) |
-| **AI Dossier Portfolio** | Full-Stack Terminal Dossier + Voice AI Studio | High-performance sub-second render, neural voice synthesis & GSC verified | [Live Site](https://jamesnithil.vercel.app/) |
+| **AI Dossier Portfolio** | Full-Stack Terminal Dossier + Voice AI Studio | High performance sub second render, neural voice synthesis & GSC verified | [Live Site](https://jamesnithil.vercel.app/) |
 
 ---
 
